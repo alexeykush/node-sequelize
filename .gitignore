@@ -1,0 +1,7 @@
+/.idea
+*.iml
+*.xml
+**/build
+**/dist
+**/node_modules
+.env
